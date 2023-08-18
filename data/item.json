@@ -1,27 +1,6 @@
 [
-    {
-        "name": "iphone 12",
-        "Price": 899.99,
-        "OS": "iOS",
-        "id": 1
-    },
-    {
-        "name": "Samusng S22",
-        "Price": 799.99,
-        "OS": "Android",
-        "id": 2
-    },
-    {
-        "name": "Google Pixel 6",
-        "Price": 699.99,
-        "OS": "Android",
-        "id": 3
-    },
-    {
-        "name": "iphone 13 mini",
-        "Price": 799,
-        "OS": "iOS",
-        "id": 4
-    }
-
+	{ "name": "iphone 12", "Price": 899.99, "OS": "iOS", "id": 1 },
+	{ "name": "Samusng S22", "Price": 799.99, "OS": "Android", "id": 2 },
+	{ "name": "iphone 13 mini", "Price": 799, "OS": "iOS", "id": 4 },
+	{ "name": "Samsung ZFold 6", "price": 1700.99, "OS": "Android", "id": 5 }
 ]
